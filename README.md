@@ -29,3 +29,4 @@ Feel free to modify the code to suit your requirements or integrate it into your
 ## Screenshot
 
 ![Rotator-emoji-all-screen](screenshot-final.gif)
+
